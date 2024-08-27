@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3nDmDBeDQvtDw3jPD/S6hleQzqx9AyjbsitTBMvQXW5H7GHOQCMZzqfNuzLVDCGRL7aREumqGTGDCMhcoFlOQ==",
+  "success": true,
+  "projectFilePath": "/home/dorio/dev/kds/kds-cron/kds-cron.csproj",
+  "expectedPackageFiles": [
+    "/home/dorio/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

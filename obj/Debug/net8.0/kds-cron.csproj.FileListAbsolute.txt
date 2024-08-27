@@ -1,0 +1,17 @@
+/home/dorio/dev/kds/kds-cron/bin/Debug/net8.0/kds-cron
+/home/dorio/dev/kds/kds-cron/bin/Debug/net8.0/kds-cron.deps.json
+/home/dorio/dev/kds/kds-cron/bin/Debug/net8.0/kds-cron.runtimeconfig.json
+/home/dorio/dev/kds/kds-cron/bin/Debug/net8.0/kds-cron.dll
+/home/dorio/dev/kds/kds-cron/bin/Debug/net8.0/kds-cron.pdb
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.GeneratedMSBuildEditorConfig.editorconfig
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.AssemblyInfoInputs.cache
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.AssemblyInfo.cs
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.csproj.CoreCompileInputs.cache
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.dll
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/refint/kds-cron.dll
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.pdb
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.genruntimeconfig.cache
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/ref/kds-cron.dll
+/home/dorio/dev/kds/kds-cron/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.csproj.AssemblyReference.cache
+/home/dorio/dev/kds/kds-cron/obj/Debug/net8.0/kds-cron.csproj.CopyComplete
